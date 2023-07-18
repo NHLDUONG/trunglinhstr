@@ -30,9 +30,7 @@
 
                 </div>
 
-                <div class="bando">
-                    <iframe src="https://www.google.com/maps/embed?pb=" style="border:0" allowfullscreen="" width="600" height="450" frameborder="0"></iframe>          
-                </div><!--.bando-->
+                
             </div><!--.content-->
         </div><!--.box_container-->
         <div class="clear"></div>
@@ -42,6 +40,8 @@
 <script>
 
 import { Link } from "@inertiajs/inertia-vue3";
+import axios from 'axios'
+
 export default {
     components: {
         props: ["about_us"],
@@ -62,9 +62,9 @@ export default {
 	methods:{
         submit(){
             console.log('submit');
-            axios.post('/edit-contact', {
+            axios.post('/edit-info', {
                     name: this.name,
-                    gmail: this.gmail,
+                    email: this.gmail,
                     address: this.address,
                     time: this.time,
                     hotline: this.hotline,

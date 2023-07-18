@@ -17,8 +17,8 @@ class AdminController extends Controller
         dd($req);
     }
 
-    public function editContact(Request $req)
+    public function editInfo(Request $req)
     {
-        return Inertia::render('Admin/EditContact');
+        return Inertia::render('Admin/editInfo');
     }
 }

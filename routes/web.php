@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
 use App\Http\Controllers\MainController;
 use App\Http\Controllers\AdminController;
+use App\Http\Controllers\ApiController;
 
 /*
 |--------------------------------------------------------------------------
@@ -32,5 +33,10 @@ Route::controller(MainController::class)->group(function () {
 Route::controller(AdminController::class)->group(function () {
     Route::get('/admin', 'admin');
     Route::get('/save-information', 'saveInfor');
-    Route::get('/chinh-sua-lien-he', 'editContact');
+    Route::get('/chinh-sua-thong-tin', 'editInfo');
+});
+
+
+Route::controller(ApiController::class)->group(function () {
+    Route::post('/edit-info', 'apiEditInfo');
 });
