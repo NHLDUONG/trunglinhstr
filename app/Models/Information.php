@@ -15,11 +15,12 @@ class Information extends Model
         $info = new Information();
         $info->name     = $obj->name ?? "";
         $info->code     = $obj->code ?? "";
-        $info->url      = $obj->url ?? "";     
-        $info->image    = $obj->image ?? "";
-        $info->password = $obj->password ?? "";
+        $info->address  = $obj->address ?? "";     
         $info->hotline  = $obj->hotline ?? "";
-        $info->email    = $obj->email ?? "";
+        $info->email	= $obj->email ?? "";
+        $info->website  = $obj->website ?? "";
+        $info->time     = $obj->time ?? "";
+        $info->image	= $obj->image ?? "";
         $info->save();
         return true;
     }

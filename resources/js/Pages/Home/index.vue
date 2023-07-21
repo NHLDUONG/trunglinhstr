@@ -7,7 +7,7 @@
             <div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 60000px; transform: translate3d(-1197px, 0px, 0px);" role="listbox"><div class="item_tt clearfix slick-slide slick-cloned" data-slick-index="-3" aria-hidden="true" tabindex="-1">
                 <div class="zoom_hinh">
                     <a href="tin-tuc/bang-gia-chup-ky-yeu-ky-yeu-galaxy-chup-anh-ky-yeu-sai-gon-75.html" tabindex="-1">
-                        <img src="thumb/386x293/1/upload/news/21687073_1421469224615824_4225740665671353862_o-4027.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                        <!-- <img src="thumb/386x293/1/upload/news/21687073_1421469224615824_4225740665671353862_o-4027.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </a>
                 </div>
                 <div class="nd_tt clearfix">
@@ -22,7 +22,7 @@
             <div class="item_tt clearfix slick-slide slick-cloned" data-slick-index="-2" aria-hidden="true" tabindex="-1">
                 <div class="zoom_hinh">
                     <a href="tin-tuc/5-xu-huong-tone-makeup-ky-yeu-dep-hot-trend-nhat-nam-nay-155.html" tabindex="-1">
-                        <img src="thumb/386x293/1/upload/news/sun-plaza-(10)-3159.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                        <!-- <img src="thumb/386x293/1/upload/news/sun-plaza-(10)-3159.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </a>
                 </div>
                 <div class="nd_tt clearfix">
@@ -37,7 +37,7 @@
             <div class="item_tt clearfix slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" tabindex="-1">
                 <div class="zoom_hinh">
                     <a href="tin-tuc/goi-y-5-xu-huong-makeup-khong-dung-hang-cho-ban-gai-di-choi-tet-122.html" tabindex="-1">
-                        <img src="thumb/386x293/1/upload/news/makeup19-7222.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                        <!-- <img src="thumb/386x293/1/upload/news/makeup19-7222.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </a>
                 </div>
                 <div class="nd_tt clearfix">
@@ -98,7 +98,7 @@
             <div class="item_tt clearfix slick-slide" data-slick-index="3" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide63">
                 <div class="zoom_hinh">
                     <a href="tin-tuc/top-10-nha-hang-tiec-cuoi-dep-sang-trong-nhat-o-tp-ho-chi-minh-165.html" tabindex="-1">
-                        <img src="thumb/386x293/1/upload/news/river-side-7901.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                        <!-- <img src="thumb/386x293/1/upload/news/river-side-7901.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </a>
                 </div>
                 <div class="nd_tt clearfix">
@@ -113,7 +113,7 @@
             <div class="item_tt clearfix slick-slide" data-slick-index="4" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide64">
                 <div class="zoom_hinh">
                     <a href="tin-tuc/top-10-nha-hang-tiec-cuoi-dep-sang-trong-nhat-o-tp-ho-chi-minh-phan-2-166.html" tabindex="-1">
-                        <img src="thumb/386x293/1/upload/news/diamond-place1-9290.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                        <!-- <img src="thumb/386x293/1/upload/news/diamond-place1-9290.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </a>
                 </div>
                 <div class="nd_tt clearfix">
@@ -128,7 +128,7 @@
             <div class="item_tt clearfix slick-slide" data-slick-index="5" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide65">
                 <div class="zoom_hinh">
                     <a href="tin-tuc/nhung-hinh-anh-ky-yeu-doc-dao-110.html" tabindex="-1">
-                        <img src="thumb/386x293/1/upload/news/avata-10-4219.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                        <!-- <img src="thumb/386x293/1/upload/news/avata-10-4219.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </a>
                 </div>
                 <div class="nd_tt clearfix">
@@ -143,7 +143,7 @@
             <div class="item_tt clearfix slick-slide" data-slick-index="6" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide66">
                 <div class="zoom_hinh">
                     <a href="tin-tuc/cac-kieu-tao-hinh-doc-dao-cho-mua-ky-yeu-nay--ky-yeu-sai-gon-114.html" tabindex="-1">
-                        <img src="thumb/386x293/1/upload/news/75258457_2645043008911164_845010553217744896_o-3505.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                        <!-- <img src="thumb/386x293/1/upload/news/75258457_2645043008911164_845010553217744896_o-3505.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </a>
                 </div>
                 <div class="nd_tt clearfix">
@@ -158,7 +158,7 @@
             <div class="item_tt clearfix slick-slide" data-slick-index="7" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide67">
                 <div class="zoom_hinh">
                     <a href="tin-tuc/y-tuong-chup-ky-yeu-2020-134.html" tabindex="-1">
-                        <img src="thumb/386x293/1/upload/news/y-tuong-chup-ky-yeu-2020-02-1785.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                        <!-- <img src="thumb/386x293/1/upload/news/y-tuong-chup-ky-yeu-2020-02-1785.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </a>
                 </div>
                 <div class="nd_tt clearfix">
@@ -174,7 +174,7 @@ Kỷ yếu hiện nay không còn là những bộ ảnh...</div>
             <div class="item_tt clearfix slick-slide" data-slick-index="8" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide68">
                 <div class="zoom_hinh">
                     <a href="tin-tuc/kinh-nghiem-chup-anh-ky-yeu-mam-non-dep-nhat-cho-cac-be-188.html" tabindex="-1">
-                        <img src="thumb/386x293/1/upload/news/chup-anh-ky-yeu-mam-non-6-9584.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                        <!-- <img src="thumb/386x293/1/upload/news/chup-anh-ky-yeu-mam-non-6-9584.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </a>
                 </div>
                 <div class="nd_tt clearfix">
@@ -189,7 +189,7 @@ Kỷ yếu hiện nay không còn là những bộ ảnh...</div>
             <div class="item_tt clearfix slick-slide" data-slick-index="9" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide69">
                 <div class="zoom_hinh">
                     <a href="tin-tuc/bang-gia-chup-ky-yeu-ky-yeu-galaxy-chup-anh-ky-yeu-sai-gon-75.html" tabindex="-1">
-                        <img src="thumb/386x293/1/upload/news/21687073_1421469224615824_4225740665671353862_o-4027.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                        <!-- <img src="thumb/386x293/1/upload/news/21687073_1421469224615824_4225740665671353862_o-4027.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </a>
                 </div>
                 <div class="nd_tt clearfix">
@@ -204,7 +204,7 @@ Kỷ yếu hiện nay không còn là những bộ ảnh...</div>
             <div class="item_tt clearfix slick-slide" data-slick-index="10" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide610">
                 <div class="zoom_hinh">
                     <a href="tin-tuc/5-xu-huong-tone-makeup-ky-yeu-dep-hot-trend-nhat-nam-nay-155.html" tabindex="-1">
-                        <img src="thumb/386x293/1/upload/news/sun-plaza-(10)-3159.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                        <!-- <img src="thumb/386x293/1/upload/news/sun-plaza-(10)-3159.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </a>
                 </div>
                 <div class="nd_tt clearfix">
@@ -219,7 +219,7 @@ Kỷ yếu hiện nay không còn là những bộ ảnh...</div>
             <div class="item_tt clearfix slick-slide" data-slick-index="11" aria-hidden="true" tabindex="-1" role="option" aria-describedby="slick-slide611">
                 <div class="zoom_hinh">
                     <a href="tin-tuc/goi-y-5-xu-huong-makeup-khong-dung-hang-cho-ban-gai-di-choi-tet-122.html" tabindex="-1">
-                        <img src="thumb/386x293/1/upload/news/makeup19-7222.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                        <!-- <img src="thumb/386x293/1/upload/news/makeup19-7222.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </a>
                 </div>
                 <div class="nd_tt clearfix">
@@ -234,7 +234,7 @@ Kỷ yếu hiện nay không còn là những bộ ảnh...</div>
             <div class="item_tt clearfix slick-slide slick-cloned" data-slick-index="12" aria-hidden="true" tabindex="-1">
                 <div class="zoom_hinh">
                     <a href="tin-tuc/dia-diem-chup-hinh-cuoi-dep-tai-hue-khong-the-bo-qua-137.html" tabindex="-1">
-                        <img src="thumb/386x293/1/upload/news/4.5-2642.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                        <!-- <img src="thumb/386x293/1/upload/news/4.5-2642.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </a>
                 </div>
                 <div class="nd_tt clearfix">
@@ -250,7 +250,7 @@ Kỷ yếu hiện nay không còn là những bộ ảnh...</div>
             <div class="item_tt clearfix slick-slide slick-cloned" data-slick-index="13" aria-hidden="true" tabindex="-1">
                 <div class="zoom_hinh">
                     <a href="tin-tuc/chia-se-nhung-kinh-nghiem-chup-hinh-cuoi-da-lat-huu-ich-125.html" tabindex="-1">
-                        <img src="thumb/386x293/1/upload/news/chup-hinh-cuoi-da-lat-14-7097.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                        <!-- <img src="thumb/386x293/1/upload/news/chup-hinh-cuoi-da-lat-14-7097.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </a>
                 </div>
                 <div class="nd_tt clearfix">
@@ -265,7 +265,7 @@ Kỷ yếu hiện nay không còn là những bộ ảnh...</div>
             <div class="item_tt clearfix slick-slide slick-cloned" data-slick-index="14" aria-hidden="true" tabindex="-1">
                 <div class="zoom_hinh">
                     <a href="tin-tuc/anh-cuoi-doc-dao-co-dau-chu-re-hoan-doi-gioi-tinh-180.html" tabindex="-1">
-                        <img src="thumb/386x293/1/upload/news/1459506129-1459494906-anh-1-4164.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                        <!-- <img src="thumb/386x293/1/upload/news/1459506129-1459494906-anh-1-4164.jpg" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </a>
                 </div>
                 <div class="nd_tt clearfix">

@@ -17,11 +17,12 @@ class CreateInformationTable extends Migration
             $table->id();
             $table->string('name');
             $table->string('code');
-            $table->string('url');
+            $table->string('address');
+            $table->string('hotline');
+            $table->string('email');
+            $table->string('website');
+            $table->string('time');
             $table->string('image');
-            $table->string('email')->unique();
-            $table->string('hotline')->unique();
-            $table->string('password', 60);
             $table->timestamps();
             $table->softDeletes();
         });

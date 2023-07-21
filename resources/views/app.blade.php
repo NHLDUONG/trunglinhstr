@@ -22,7 +22,7 @@
         <!-- <base href="http://laravue:81/"> -->
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <link rel="SHORTCUT ICON" href="upload/hinhanh/logo-38188322_26x32.png" type="image/x-icon">
+        <!-- <link rel="SHORTCUT ICON" href="upload/hinhanh/logo-38188322_26x32.png" type="image/x-icon"> -->
         <meta name="ROBOTS" content="noodp, INDEX, FOLLOW">
         <meta name="author" content=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
         <meta name="copyright" content=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA [trunghoangvuong@gmail.com]">
@@ -78,7 +78,9 @@
                     <p><span style="font-size:14px;"><span style="line-height:2.4em;"><span style="color:#999999;">Thời gian làm việc: Từ 8h am - 22 pm</span></span></span></p>
                     
                     <div class="mxh">
-                        <a href="https://www.google.com/search?q=K%E1%BB%B7+Y%E1%BA%BFu+Galaxy+-+Ch%E1%BB%A5p+%E1%BA%A3nh+k%E1%BB%B7+y%E1%BA%BFu+S%C3%A0i+G%C3%B2n&amp;stick=H4sIAAAAAAAA_-NgU1I1qDA2NDc1skwyN0lKMjcwTLa0MqgwNzRNMTczNUhNSU01TE2xWMRq6v1w93aFyIe79pcquCfmJFZUKugqOGc83L20QOHhrsV5GQr" target="_blank"><img src="upload/khac/google-g-2015-logo-png-transparent-6838.png" alt="Google"></a><a href="https://www.facebook.com/Chupkyyeugalaxy.ChupkyyeuSaigon" target="_blank"><img src="upload/khac/pngtree-facebook-icon-social-media-3d-png-image_6308418-3221.png" alt="Facebook"></a><a href="https://www.youtube.com/channel/UCFR8uuc2lFXr8DTdb7y17xA" target="_blank"><img src="upload/khac/youtube_logo_icon_134601-6835.png" alt="Youtube"></a><a href="https://www.tiktok.com/@chupkyyeugalaxy" target="_blank"><img src="upload/khac/tiktok-icon-glyph-3290.png" alt="Tiktok"></a>
+                        <!-- <a href="https://www.google.com/search?q=K%E1%BB%B7+Y%E1%BA%BFu+Galaxy+-+Ch%E1%BB%A5p+%E1%BA%A3nh+k%E1%BB%B7+y%E1%BA%BFu+S%C3%A0i+G%C3%B2n&amp;stick=H4sIAAAAAAAA_-NgU1I1qDA2NDc1skwyN0lKMjcwTLa0MqgwNzRNMTczNUhNSU01TE2xWMRq6v1w93aFyIe79pcquCfmJFZUKugqOGc83L20QOHhrsV5GQr" target="_blank"><img src="upload/khac/google-g-2015-logo-png-transparent-6838.png" alt="Google"></a><a href="https://www.facebook.com/Chupkyyeugalaxy.ChupkyyeuSaigon" target="_blank"><img src="upload/khac/pngtree-facebook-icon-social-media-3d-png-image_6308418-3221.png" alt="Facebook"></a><a href="https://www.youtube.com/channel/UCFR8uuc2lFXr8DTdb7y17xA" target="_blank"><img src="upload/khac/youtube_logo_icon_134601-6835.png" alt="Youtube"></a><a href="https://www.tiktok.com/@chupkyyeugalaxy" target="_blank">
+                            <img src="upload/khac/tiktok-icon-glyph-3290.png" alt="Tiktok">
+                        </a> -->
                     </div>
                 </div>
 
@@ -91,19 +93,19 @@
                                 FREE VÒNG HOA ĐỘI ĐẦU , HOA CẦM TAY CHO NỮ VÀ CÀ VẠT CHO NAM KHI BOOK CHỤP ẢNH KỶ YẾU
                             
                         </a>
-                        <img src="images_pts/new.png" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                        <!-- <img src="images_pts/new.png" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </li>
                     <li class="clearfix">
                         <a href="khuyen-mai/tang-chup-anh-voi-flycam-cho-tat-ca-cac-goi-94.html">
                             <i class="fas fa-angle-double-right"></i>
                                 TẶNG CHỤP ẢNH VỚI FLYCAM CHO TẤT CẢ CÁC GÓI</a>
-                            <img src="images_pts/new.png" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                            <!-- <img src="images_pts/new.png" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </li>
                     <li class="clearfix">
                         <a href="khuyen-mai/tang-voucher-giam-gia-tai-shop-thoi-trang-nu-doris-vintage-93.html">
                             <i class="fas fa-angle-double-right"></i>
                                 TẶNG VOUCHER GIẢM GIÁ TẠI SHOP THỜI TRANG NỮ DORIS VINTAGE</a>
-                            <img src="images_pts/new.png" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
+                            <!-- <img src="images_pts/new.png" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA"> -->
                     </li>
                 </ul>
             </div>

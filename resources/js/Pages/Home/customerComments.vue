@@ -7,67 +7,67 @@
 				<div class="danhsachykien slick-initialized slick-slider"><button type="button" data-role="none" class="slick-prev slick-arrow" aria-label="Previous" role="button" style="display: block;">Previous</button>
 					<div aria-live="polite" class="slick-list draggable" style="padding: 0px;"><div class="slick-track" style="opacity: 1; width: 2366px; transform: translate3d(-728px, 0px, 0px);" role="listbox"><div class="news1 slick-slide slick-cloned" data-slick-index="-4" aria-hidden="true" style="width: 182px;" tabindex="-1">
 						<div class="news1_img">
-							<img src="thumb/215x215/1/upload/news/74185680_1208080396043473_8405718110325178368_o-5009.jpg" alt="FB : NHUNG THORNE">
+							<!-- <img src="thumb/215x215/1/upload/news/74185680_1208080396043473_8405718110325178368_o-5009.jpg" alt="FB : NHUNG THORNE"> -->
 						</div>
 						</div>
 						<div class="news1 slick-slide slick-cloned" data-slick-index="-3" aria-hidden="true" style="width: 182px;" tabindex="-1">
 							<div class="news1_img">
-								<img src="thumb/215x215/1/upload/news/83683823_2553708848220921_3286136523925225472_o-2132.jpg" alt="FB : TRẦN NGỌC TRÂN CHÂU">
+								<!-- <img src="thumb/215x215/1/upload/news/83683823_2553708848220921_3286136523925225472_o-2132.jpg" alt="FB : TRẦN NGỌC TRÂN CHÂU"> -->
 							</div>
 						</div>
 						<div class="news1 slick-slide slick-cloned" data-slick-index="-2" aria-hidden="true" style="width: 182px;" tabindex="-1">
 							<div class="news1_img">
-								<img src="thumb/215x215/1/upload/news/83245584_1077779319230350_7852400913850302464_o-3620.jpg" alt="FB : NGUYỄN THỊ TRÚC LY">
+								<!-- <img src="thumb/215x215/1/upload/news/83245584_1077779319230350_7852400913850302464_o-3620.jpg" alt="FB : NGUYỄN THỊ TRÚC LY"> -->
 							</div>
 						</div>
 						<div class="news1 slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" style="width: 182px;" tabindex="-1">
 							<div class="news1_img">
-								<img src="thumb/215x215/1/upload/news/93359902_1550306885134140_4489030308028481536_n-7633.jpg" alt="FB : ÚT NHỎ NGUYỄN HUỲNH">
+								<!-- <img src="thumb/215x215/1/upload/news/93359902_1550306885134140_4489030308028481536_n-7633.jpg" alt="FB : ÚT NHỎ NGUYỄN HUỲNH"> -->
 							</div>
 						</div>
 						<div class="news1 slick-slide slick-active" data-slick-index="0" aria-hidden="false" style="width: 182px;" tabindex="0" role="option" aria-describedby="slick-slide10">
 							<div class="news1_img">
-								<img src="thumb/215x215/1/upload/news/74661778_1338262936341526_8062524724153942016_o-0717.jpg" alt="FB : THANH PHƯƠNG">
+								<!-- <img src="thumb/215x215/1/upload/news/74661778_1338262936341526_8062524724153942016_o-0717.jpg" alt="FB : THANH PHƯƠNG"> -->
 							</div>
 						</div>
 						<div class="news1 slick-slide slick-current slick-active slick-center" data-slick-index="1" aria-hidden="false" style="width: 182px;" tabindex="0" role="option" aria-describedby="slick-slide11">
 							<div class="news1_img">
-								<img src="thumb/215x215/1/upload/news/74185680_1208080396043473_8405718110325178368_o-5009.jpg" alt="FB : NHUNG THORNE">
+								<!-- <img src="thumb/215x215/1/upload/news/74185680_1208080396043473_8405718110325178368_o-5009.jpg" alt="FB : NHUNG THORNE"> -->
 							</div>
 						</div>
 						<div class="news1 slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 182px;" tabindex="0" role="option" aria-describedby="slick-slide12">
 							<div class="news1_img">
-								<img src="thumb/215x215/1/upload/news/83683823_2553708848220921_3286136523925225472_o-2132.jpg" alt="FB : TRẦN NGỌC TRÂN CHÂU">
+								<!-- <img src="thumb/215x215/1/upload/news/83683823_2553708848220921_3286136523925225472_o-2132.jpg" alt="FB : TRẦN NGỌC TRÂN CHÂU"> -->
 							</div>
 						</div>
 						<div class="news1 slick-slide" data-slick-index="3" aria-hidden="true" style="width: 182px;" tabindex="-1" role="option" aria-describedby="slick-slide13">
 							<div class="news1_img">
-								<img src="thumb/215x215/1/upload/news/83245584_1077779319230350_7852400913850302464_o-3620.jpg" alt="FB : NGUYỄN THỊ TRÚC LY">
+								<!-- <img src="thumb/215x215/1/upload/news/83245584_1077779319230350_7852400913850302464_o-3620.jpg" alt="FB : NGUYỄN THỊ TRÚC LY"> -->
 							</div>
 						</div>
 						<div class="news1 slick-slide" data-slick-index="4" aria-hidden="true" style="width: 182px;" tabindex="-1" role="option" aria-describedby="slick-slide14">
 							<div class="news1_img">
-								<img src="thumb/215x215/1/upload/news/93359902_1550306885134140_4489030308028481536_n-7633.jpg" alt="FB : ÚT NHỎ NGUYỄN HUỲNH">
+								<!-- <img src="thumb/215x215/1/upload/news/93359902_1550306885134140_4489030308028481536_n-7633.jpg" alt="FB : ÚT NHỎ NGUYỄN HUỲNH"> -->
 							</div>
 						</div>
 						<div class="news1 slick-slide slick-cloned" data-slick-index="5" aria-hidden="true" style="width: 182px;" tabindex="-1">
 							<div class="news1_img">
-								<img src="thumb/215x215/1/upload/news/74661778_1338262936341526_8062524724153942016_o-0717.jpg" alt="FB : THANH PHƯƠNG">
+								<!-- <img src="thumb/215x215/1/upload/news/74661778_1338262936341526_8062524724153942016_o-0717.jpg" alt="FB : THANH PHƯƠNG"> -->
 							</div>
 						</div>
 						<div class="news1 slick-slide slick-cloned" data-slick-index="6" aria-hidden="true" style="width: 182px;" tabindex="-1">
 							<div class="news1_img">
-								<img src="thumb/215x215/1/upload/news/74185680_1208080396043473_8405718110325178368_o-5009.jpg" alt="FB : NHUNG THORNE">
+								<!-- <img src="thumb/215x215/1/upload/news/74185680_1208080396043473_8405718110325178368_o-5009.jpg" alt="FB : NHUNG THORNE"> -->
 							</div>
 						</div>
 						<div class="news1 slick-slide slick-cloned" data-slick-index="7" aria-hidden="true" style="width: 182px;" tabindex="-1">
 							<div class="news1_img">
-								<img src="thumb/215x215/1/upload/news/83683823_2553708848220921_3286136523925225472_o-2132.jpg" alt="FB : TRẦN NGỌC TRÂN CHÂU">
+								<!-- <img src="thumb/215x215/1/upload/news/83683823_2553708848220921_3286136523925225472_o-2132.jpg" alt="FB : TRẦN NGỌC TRÂN CHÂU"> -->
 							</div>
 						</div>
 						<div class="news1 slick-slide slick-cloned" data-slick-index="8" aria-hidden="true" style="width: 182px;" tabindex="-1">
 							<div class="news1_img">
-								<img src="thumb/215x215/1/upload/news/83245584_1077779319230350_7852400913850302464_o-3620.jpg" alt="FB : NGUYỄN THỊ TRÚC LY">
+								<!-- <img src="thumb/215x215/1/upload/news/83245584_1077779319230350_7852400913850302464_o-3620.jpg" alt="FB : NGUYỄN THỊ TRÚC LY"> -->
 							</div>
 						</div>
 					</div>

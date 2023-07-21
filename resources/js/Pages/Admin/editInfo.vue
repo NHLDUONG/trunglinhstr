@@ -1,11 +1,12 @@
 <template>
     <div class="main_content clearfix ptop-8">
         <div class="tieude_giua">
-            <div>Chỉnh sửa liên hệ</div>
+            <div>Chỉnh sửa thông tin</div>
         </div>
         <div class="box_container">
             <div class="content">
-                <div class="tt_lh">
+                <!-- <div class="tt_lh"> -->
+                <div class="">
                     <p class="w-100 font-weight-bold fw-bold">Tên :</p>
                     <input class="w-100 border border-secondary rounded" placeholder="Vui lòng nhập tên" v-model="name" />
                     
@@ -56,6 +57,9 @@ export default {
         website: "",
       }
     },
+    created(){
+        this.info();
+    },
 	mounted(){
 
 	},
@@ -69,6 +73,16 @@ export default {
                     time: this.time,
                     hotline: this.hotline,
                     website: this.website,
+                })
+                .then(function (response) {
+                    console.log(response);
+                })
+                .catch(function (error) {
+                    console.log(error);
+            });
+        },
+        info(){
+            axios.get('/get-info', {
                 })
                 .then(function (response) {
                     console.log(response);

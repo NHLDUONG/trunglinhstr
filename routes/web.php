@@ -39,4 +39,6 @@ Route::controller(AdminController::class)->group(function () {
 
 Route::controller(ApiController::class)->group(function () {
     Route::post('/edit-info', 'apiEditInfo');
+
+    Route::get('/get-info', 'apiGetInfo');
 });

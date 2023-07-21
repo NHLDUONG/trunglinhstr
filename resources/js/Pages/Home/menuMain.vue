@@ -15,7 +15,7 @@
 			</div>
 		</div>
 	</div> -->
-	<a id="zalo" href="https://zalo.me/0976004488" target="_blank"><img src="templates/images/zalo-icon.png" width="48" alt="hotline"></a>
+	<!-- <a id="zalo" href="https://zalo.me/0976004488" target="_blank"><img src="templates/images/zalo-icon.png" width="48" alt="hotline"></a> -->
 	<a href="tel:0976004488">
 		<div class="call_now">
 			<div class="call_now_circle"></div>

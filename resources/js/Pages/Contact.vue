@@ -34,7 +34,8 @@
 
                             <div class="item_lienhe"><p>Mã bảo vệ:<span>*</span></p>
                             <img src="sources/captcha.php" id="hinh_captcha" alt=" QUIN BRIDAL - KỶ YẾU GALAXY - GALAXY MEDIA">
-                                    <a href="#reset_capcha" id="reset_capcha" title="Đổi mã khác"><img src="images/refresh.png" alt="reset_capcha"></a></div>
+                                    <!-- <a href="#reset_capcha" id="reset_capcha" title="Đổi mã khác"><img src="images/refresh.png" alt="reset_capcha"></a> -->
+                                    </div>
 
                             <div class="item_lienhe"><input name="capcha" type="text" id="capcha" placeholder="Mã bảo vệ"></div>
 

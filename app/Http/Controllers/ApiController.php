@@ -14,11 +14,12 @@ class ApiController extends Controller
         $object = new \stdClass();
         $object->name       = $req->input('name') ?? "";
         $object->code       = $req->input('code') ?? "";
-        $object->url        = $req->input('url') ?? "";
-        $object->image      = $req->input('url') ?? "";
-        $object->password   = $req->input('password') ?? "";
+        $object->address    = $req->input('address') ?? "";
         $object->hotline    = $req->input('hotline') ?? "";
         $object->email      = $req->input('email') ?? "";
+        $object->website    = $req->input('website') ?? "";
+        $object->time       = $req->input('time') ?? "";
+        $object->image      = $req->input('image') ?? "";
         
         $info = Information::select('id')->get();
         if(count($info)){
@@ -31,5 +32,11 @@ class ApiController extends Controller
         $object = Information::saveInfo($object);
         
         return true;
+    }
+
+    public function apiGetInfo(Request $req)
+    {
+        $info = Information::select('name','code','url','hotline','email')->first();
+        return $info;
     }
 }
