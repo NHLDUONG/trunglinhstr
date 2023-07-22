@@ -2,6 +2,8 @@ import { createApp, h } from "vue";
 import { createInertiaApp } from "@inertiajs/inertia-vue3";
 import { InertiaProgress } from "@inertiajs/progress";
 import { router } from "@inertiajs/vue3";
+import './bootstrap';
+import '../css/app.css'; 
 
 InertiaProgress.init();
 

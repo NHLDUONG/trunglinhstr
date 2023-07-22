@@ -36,7 +36,28 @@ class ApiController extends Controller
 
     public function apiGetInfo(Request $req)
     {
-        $info = Information::select('name','code','url','hotline','email')->first();
-        return $info;
+        try {
+            $info = Information::select('name','code','address','hotline','email','website','time')->first();
+            if($info) {
+                return response()->json([
+                    'success' => true,
+                    'infor' => $info,
+                ],200 );
+            }else{
+                return response()->json([
+                    'success' => false,
+                    'message' => 'Không thể lấy dữ liệu, vui lòng liên hệ admin',
+                    'message_title' => "Thông báo"
+                ], 400);
+            }
+        } catch (\Exception $e) {
+            report($e);
+            return response()->json([
+                'success' => false,
+                'message' => 'Không thể lấy dữ liệu, vui lòng liên hệ admin',
+                'message_title' => "Lấy dữ liệu thất bại"
+            ], 400 );
+        }
+        
     }
 }

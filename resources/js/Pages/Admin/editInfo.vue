@@ -8,7 +8,7 @@
                 <!-- <div class="tt_lh"> -->
                 <div class="">
                     <p class="w-100 font-weight-bold fw-bold">Tên :</p>
-                    <input class="w-100 border border-secondary rounded" placeholder="Vui lòng nhập tên" v-model="name" />
+                    <input class="w-100 border border-secondary rounded" placeholder="Vui lòng nhập tên" v-model="name_asdsad" />
                     
                     <p class="w-100 font-weight-bold fw-bold">Địa chỉ:</p>
                     <input  class="w-100 border border-secondary rounded " placeholder="Vui lòng nhập địa chỉ" v-model="address"  />
@@ -40,32 +40,56 @@
 
 <script>
 
-import { Link } from "@inertiajs/inertia-vue3";
 import axios from 'axios'
-
 export default {
     components: {
-        props: ["about_us"],
     },
-    data () {
+    data() {
       return {
-        name: "",
+        name_asdsad: "",
         gmail: "",
         address: "",
         time: "",
         hotline: "",
         website: "",
+        infor:""
       }
     },
     created(){
-        this.info();
     },
 	mounted(){
+        this.information();
 
 	},
 	methods:{
+        information(){
+            var _this = this;
+            axios.get('/get-info', {
+                })
+                .then(function (response) {
+
+                    if(response.data.success ){
+
+                        _this.name      = response.data && response.data.infor.name ?  response.data.infor.name :"" ;
+                        _this.gmail     =  response.data.infor.email ?? "" ;
+                        _this.address   =  response.data.infor.address ?? "" ;
+                        _this.time      =  response.data.infor.time ?? "" ;
+                        _this.hotline   =  response.data.infor.hotline ?? "" ;
+                        _this.website   =  response.data.infor.website ?? "" ;
+                    }
+                })
+                .catch(function (error) {
+                    console.log(error);
+            });
+        },
         submit(){
-            console.log('submit');
+            var err = false;
+            if(!err){
+                if(!this.name){
+                    err = true;
+                    return;
+                }
+            }
             axios.post('/edit-info', {
                     name: this.name,
                     email: this.gmail,
@@ -81,16 +105,6 @@ export default {
                     console.log(error);
             });
         },
-        info(){
-            axios.get('/get-info', {
-                })
-                .then(function (response) {
-                    console.log(response);
-                })
-                .catch(function (error) {
-                    console.log(error);
-            });
-        }
 	}
 };
 </script>
